@@ -20,6 +20,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-env": "^1.7.0",
+    "braces": "^2.3.1",
+    "clean-css": "^4.1.11",
+    "constantinople": "^3.1.1",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "file-stream-rotator": "^0.5.5",
